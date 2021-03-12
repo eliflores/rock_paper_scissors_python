@@ -1,4 +1,3 @@
-import pytest
 from rock_paper_scissors import Blimey
 
 
